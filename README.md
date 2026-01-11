@@ -1,3 +1,4 @@
+# Mini Project one 
 # 🎯 Guess the Number Game
 
 [![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/) 
@@ -24,6 +25,39 @@ A fun and interactive Python game where the computer thinks of a number between 
 ## 📦 Requirements
 
 - Python 3.x  
-- Jupyter Notebook or Google Colab  
+- Jupyter Notebook or Google Colab
+
+
+# Mini Project Two
+# ❌⭕ Tic Tac Toe Game
+
+[![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/)  
+[![Console](https://img.shields.io/badge/Console-Application-black)](#)  
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+A simple and interactive **two-player Tic Tac Toe game** built using Python.  
+Players take turns marking spaces on a 3×3 grid, and the game determines the winner or a draw automatically.
+
+## 🕹 Game Features
+
+- Two-player gameplay (Player 1 vs Player 2)
+- Marker selection (**X or O**)
+- Randomly chooses which player goes first
+- Real-time board updates
+- Win detection (rows, columns, diagonals)
+- Draw detection
+- Input validation (prevents invalid moves)
+- Replay option after game completion
+
+## 🚀 How to Run
+
+1. Clone or download this repository.  
+2. Open a terminal in the project folder.  
+3. Run the Python file using:
+
+   ```bash
+   python tic_tac_toe.py
+
+  
 
 
